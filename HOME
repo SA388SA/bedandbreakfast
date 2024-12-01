@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Home</title>
+
+<style type="text/css">
+
+	body{background-color:darkseagreen;font-size: 15px}
+
+	body img {width:80%;height:50%;object-fit: cover;z-index: 1}
+
+
+
+	header{position: relative;overflow:hidden;top: 0%;}
+
+
+
+	header img{width:100%;height:100%;object-fit: cover;z-index: 1}
+
+	div.navigation{background-color: seagreen;width: 95%;height: 5%;position: relative;top: 10%;left: 2%;white-space: nowrap;}
+
+	div.navigation ul{padding:0%;margin:auto; font-size: 20px}
+	div.navigation ul li{display:inline;}
+	div.navigation ul li a{padding-left:2%;padding-right:2%; text-decoration:none; border-right: double black;color:white;}
+
+
+	div.content{width: 95%;height: 85%;position: relative;top: 15%;left: 2%;}
+
+
+
+
+</style>
+
+
+<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+
+<header>
+	
+	<img src="bitmap.png" alt="edited image via Canva">
+
+</header>
+
+</head>
+<body>
+	<div class="header">
+
+	
+
+	 </div>
+
+	 <div class="navigation"> 
+
+	 	<ul>
+	 	<li><a href="file:///Library/Caches/Desktop%20Pictures/8A2A4746-A60A-417E-9064-52ACA5F602E4/Desktop/AAD%2010050/Two%20Pages%20and%20Two%20Images/Index.HTML"> Home </a></li>
+	 	<li><a href="file:///Library/Caches/Desktop%20Pictures/8A2A4746-A60A-417E-9064-52ACA5F602E4/Desktop/AAD%2010050/Two%20Pages%20and%20Two%20Images/Page%202_Europe.HTML"> Europe </a></li>
+	 	<li><a href="file:///Library/Caches/Desktop%20Pictures/8A2A4746-A60A-417E-9064-52ACA5F602E4/Desktop/AAD%2010050/Two%20Pages%20and%20Two%20Images/Page%203_America.HTML"> America </a></li>
+	 	<li><a href="file:///Library/Caches/Desktop%20Pictures/8A2A4746-A60A-417E-9064-52ACA5F602E4/Desktop/AAD%2010050/Two%20Pages%20and%20Two%20Images/Page%205_Asia.HTML"> Asia </a></li>
+	 	<li><a href="file:///Library/Caches/Desktop%20Pictures/8A2A4746-A60A-417E-9064-52ACA5F602E4/Desktop/AAD%2010050/Two%20Pages%20and%20Two%20Images/Page%204_Middle%20East.HTML"> Middle East </a></li>
+	 	<li><a href="file:///Library/Caches/Desktop%20Pictures/8A2A4746-A60A-417E-9064-52ACA5F602E4/Desktop/AAD%2010050/Two%20Pages%20and%20Two%20Images/Page%206_Africa.HTML"> Africa </a></li>
+	 	<li><a href="file:///Library/Caches/Desktop%20Pictures/8A2A4746-A60A-417E-9064-52ACA5F602E4/Desktop/AAD%2010050/Two%20Pages%20and%20Two%20Images/Page%207_Oceania.HTML"> Oseania </a></li>
+
+		</ul><!--created all pages and pasted the link each-->
+
+
+
+	 </div>
+
+	 <div class="content">
+
+<h1>Travel Destinations</h1>
+
+	<img src="worldmap.jpg" alt="designed by freepik.com" >
+	<br> &copy; freepik.com
+
+
+<h2>Europe</h2>
+
+	 	<iframe width="360" height="215" src="https://www.youtube.com/embed/0xhzwDXfLds?si=tyQS-q5_Wev6rIe-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- embed youtube--> 
+
+<br>
+	 	<a href="https://youtu.be/0xhzwDXfLds?si=F9edyCw30nm2wXab" target="blank"> https://youtu.be/0xhzwDXfLds?si=F9edyCw30nm2wXab<a>
+
+<h2>America</h2>
+
+<h3>North America</h3>
+
+		<iframe width="360" height="215" src="https://www.youtube.com/embed/G8AmqnO2Cqc?si=-G0vxxNC5bJX1GLW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- embed youtube--> 
+
+<br>
+		<a href="https://youtu.be/G8AmqnO2Cqc?si=0ZbdwSA27J9tpOwt" target="blank"> https://youtu.be/G8AmqnO2Cqc?si=0ZbdwSA27J9tpOwt<a>
+
+
+<h3>South America</h3>
+		<iframe width="360" height="215" src="https://www.youtube.com/embed/TJERhGzxRK8?si=1khAKL8I1b5l9-wh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- embed youtube--> 
+
+<br>
+
+		<a href="https://youtu.be/TJERhGzxRK8?si=Rv021yuI8BydSsO5" target="blank"> https://youtu.be/TJERhGzxRK8?si=Rv021yuI8BydSsO5<a>
+
+
+
+<h2>Asia</h2>
+
+		<iframe width="360" height="215" src="https://www.youtube.com/embed/2_kAzyaX7SU?si=zbdAOUCQAA83gQ5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- embed youtube--> 
+
+<br>
+		<a href="https://youtu.be/2_kAzyaX7SU?si=3tWWkgTdvedO53oJ" target="blank"> https://youtu.be/2_kAzyaX7SU?si=3tWWkgTdvedO53oJ<a>
+
+
+<h2>Middle East</h2>
+
+		<iframe width="360" height="215"  src="https://www.youtube.com/embed/ZIb8u6uJwBo?si=nv6y_8xguDAv50V4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- embed youtube--> 
+
+<br>
+		<a href="https://youtu.be/ZIb8u6uJwBo?si=-19h-v2U8scj-azK" target="blank"> https://youtu.be/ZIb8u6uJwBo?si=-19h-v2U8scj-azK<a>
+
+<h2>Africa</h2>
+
+		<iframe width="360" height="215" src="https://www.youtube.com/embed/e5DIchMBRyA?si=Xf56nDm5VAI3fGv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- embed youtube--> 
+
+<br>
+		<a href="https://www.youtube.com/live/e5DIchMBRyA?si=of6i1yf0vAbDouxm" target="blank">https://www.youtube.com/live/e5DIchMBRyA?si=of6i1yf0vAbDouxm<a>
+
+<h2>Oceania</h2>
+
+		<iframe width="360" height="215" src="https://www.youtube.com/embed/AG2pzH-E6Iw?si=T2fO-Q0fhgPLGpN6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- embed youtube--> 
+
+<br>
+		<a href="https://youtu.be/AG2pzH-E6Iw?si=IgBx6E-XAvC46yT-" target="blank">https://youtu.be/AG2pzH-E6Iw?si=IgBx6E-XAvC46yT-<a>
+
+	  </div>
+
+
+
+</body>
+</html>
